@@ -15,12 +15,12 @@ const {
 router.route("/")
 	.get(getAllThoughts);
 
-// /api/thoughts ///////to get and update thought by id
+// api/thoughts ///////to get and update thought by id
 router.route("/:thoughtId")
 	.get(getThoughtById)
 	.put(updateThought);
 
-// /api/thoughts /////////////creatThought
+// api/thoughts /////////////creatThought
 //post
 router.route("/:userId")
 	.post(createThought);
