@@ -11,3 +11,12 @@ Express.js was used for routing and a MongoDB database was created.
 
 ## Testing 
 API routes were tested using Insomnia Core.and you will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
+
+
+## Links
+https://github.com/fadhaa89/social-network-API
+
+## walkthrough video
+
+## Author
+Fadhaa Abdullah  
