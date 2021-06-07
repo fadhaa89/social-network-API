@@ -10,4 +10,4 @@ This challenge involved creating a social network backend using MongoDB and Expr
 Express.js was used for routing and a MongoDB database was created.
 
 ## Testing 
-API routes were tested using Insomnia Core.and you will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+API routes were tested using Insomnia Core.and you will be able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
