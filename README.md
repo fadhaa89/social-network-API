@@ -1,4 +1,5 @@
-# social-network-API
+## Tittle
+ social-network-API
 
 ## User Story
 AS A social media startup
@@ -21,3 +22,4 @@ https://github.com/fadhaa89/social-network-API
 
 ## Author
 Fadhaa Abdullah  
+fadhaaabdullah8991@gmail.com
