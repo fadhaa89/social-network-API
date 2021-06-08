@@ -18,7 +18,7 @@ API routes were tested using Insomnia Core.and you will be able to successfully 
 https://github.com/fadhaa89/social-network-API
 
 ## walkthrough video
-![Example Gif](./assets/example2.gif)
+![Example Gif](./assets/image/example2.gif)
 
 ## Author
 Fadhaa Abdullah  
